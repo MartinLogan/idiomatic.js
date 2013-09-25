@@ -1,18 +1,16 @@
 # Principles of Writing Consistent, Idiomatic JavaScript
 
-## This is taken from https://github.com/rwaldron/idiomatic.js
+This is taken from [https://github.com/rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js)
 
-## All code in any code-base should look like a single person typed it, no matter how many people contributed.
+**All code in any code-base should look like a single person typed it, no matter how many people contributed.**
 
-### The following list outlines the practices that JavaScript developers are expected to follow
+ The following list outlines the practices that JavaScript developers are expected to follow
 
-> ### "Arguments over style are pointless. There should be a style guide, and you should follow it"
+> **"Arguments over style are pointless. There should be a style guide, and you should follow it"**
 >_Rebecca_ _Murphey_
 
-&nbsp;
-
-> ### "Part of being a good steward to a successful project is realizing that writing code for yourself is a Bad Idea.
-If thousands of people are using your code, then write your code for maximum clarity, not your personal preference of how to get clever within the spec."
+> **"Part of being a good steward to a successful project is realizing that writing code for yourself is a Bad Idea.
+If thousands of people are using your code, then write your code for maximum clarity, not your personal preference of how to get clever within the spec."**
 >_Idan_ _Gazit_
 
 ## Table of Contents
